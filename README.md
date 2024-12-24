@@ -5,4 +5,5 @@ Features in its current form:
 - Search functionality that searches item names and lore.
 
 **Created by:** Olzie-12, LilDigiVert, and CityRP (hyperlink to CityRP Discord here)
-![Uploading image.png…]()
+
+<img width="502" alt="image" src="https://github.com/user-attachments/assets/42d1a560-f50d-4d8d-b6c5-78609f7cee4d" />
