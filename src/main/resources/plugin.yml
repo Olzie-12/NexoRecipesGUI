@@ -1,0 +1,7 @@
+name: ${project.name}
+main: com.olziedev.nexorecipesgui.NexoRecipesGUI
+version: ${project.version}
+author: Olzie
+api-version: 1.13
+softdepend:
+  - Oraxen
